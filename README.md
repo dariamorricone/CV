@@ -16,6 +16,7 @@ Hello! My name is Daria. I'm from Ukraine, but moved to Warsaw 4 years ago for s
 ## TECH SKILLS
 
 * Oracle SQL Developer
+* REST
 * Software testing
 * Creating test cases
 * Github
