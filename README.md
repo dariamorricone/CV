@@ -52,5 +52,5 @@ Hello! My name is Daria. I'm from Ukraine, but moved to Warsaw 4 years ago for s
 * [testuj.pl - Test, Bugs & Rock'n'Roll](https://www.yasteq.com/PL/Wroclaw/193661854026669/Testuj.pl---Test%2C-Bugs-%26-Rock%27n%27Roll)
 
 ## MY PROJECTS
-* [Oracle Live SQL Developer](https://docs.google.com/spreadsheets/d/1cRASfPSEKgBF8TIt0yvh3D_E5WChrRgQJKsAjgflSD8/edit?usp=sharing)
+* [Oracle Live SQL](https://docs.google.com/spreadsheets/d/1cRASfPSEKgBF8TIt0yvh3D_E5WChrRgQJKsAjgflSD8/edit?usp=sharing)
 * [My Test Cases](https://docs.google.com/spreadsheets/d/1UrvsrWflmaHokopiqaT4mt3t-uCthrhreVhiM98LKV0/edit?usp=sharing)
