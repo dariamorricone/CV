@@ -3,7 +3,7 @@ My Tester's Portfolio
 
 ##  ABOUT ME
 
-Hello! My name is Daria. I'm from Ukraine, but moved to Warsaw 4 years ago for study. I graduated the University of Economics and Human Sciences. Recently I became interested in software testing. My goal is develop testing knowlage and technical skills and share my gained expirience on this website.
+Hello! I'm Daria. I was born in Ukraine and moved to Warsaw 4 years ago for study. I graduated the University of Economics and Human Sciences. Recently I became interested in software testing. My goal is develop testing knowlage and technical skills and share my gained expirience on this website.
 ## TOOLS
 
 * **Postman** - testing tool for REST API
@@ -14,19 +14,20 @@ Hello! My name is Daria. I'm from Ukraine, but moved to Warsaw 4 years ago for s
 
 ## TECH SKILLS
 
-* Oracle SQL Developer
+* Oracle SQL 
 * REST
 * Software testing
 * Creating test cases
-* Github
+* Reporting bugs
 * Creating diagrams and decision tables
 
 ## COURSES
 
-* Zostań Testerem - Sii Poland
-* Best QA Manual Software Testing: Live Project+Agile+Jira+API - Udemy
-* Master Software Testing+Jira+Agile on Live App-Be a TeamLead - Udemy
-* Software Testing for begginers. Web, Mobile, API. (QA/QC) - Udemy
+* [Zostań Testerem - Sii Poland - Certificate](https://drive.google.com/file/d/1F_uYGkh1D9EqdZLLaUZpe7iEXeu_ue8w/view?usp=sharing)
+* [Zostań Testerem - Sii Poland - Attestation](https://drive.google.com/file/d/1YTBN5k1r6aVdaHaSIQZPsSnrLcJv15om/view?usp=sharing)
+* [Best QA Manual Software Testing: Live Project+Agile+Jira+API - Udemy](http://ude.my/UC-HBBQBI1W)
+* [Master Software Testing+Jira+Agile on Live App-Be a TeamLead - Udemy](http://ude.my/UC-FTK3RNCN)
+* [Software Testing for begginers. Web, Mobile, API. (QA/QC) - Udemy](http://ude.my/UC-R1ZJ81EN)
 
 ## BOOKS
 * Testirovanie Dot Com - Roman Savin
@@ -54,3 +55,6 @@ Hello! My name is Daria. I'm from Ukraine, but moved to Warsaw 4 years ago for s
 ## MY PROJECTS
 * [Oracle Live SQL](https://docs.google.com/spreadsheets/d/1cRASfPSEKgBF8TIt0yvh3D_E5WChrRgQJKsAjgflSD8/edit?usp=sharing)
 * [My Test Cases](https://docs.google.com/spreadsheets/d/1UrvsrWflmaHokopiqaT4mt3t-uCthrhreVhiM98LKV0/edit?usp=sharing)
+
+## MY CONTACT INFO
+* [Linkedin](https://www.linkedin.com/in/daria-chetverikova/)
