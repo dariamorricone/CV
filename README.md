@@ -54,7 +54,7 @@ Hello! I'm Daria. I was born in Ukraine and moved to Warsaw 4 years ago for stud
 
 ## MY PROJECTS
 * [Oracle Live SQL](https://docs.google.com/spreadsheets/d/1cRASfPSEKgBF8TIt0yvh3D_E5WChrRgQJKsAjgflSD8/edit?usp=sharing)
-* [My Test Cases](https://docs.google.com/spreadsheets/d/1UrvsrWflmaHokopiqaT4mt3t-uCthrhreVhiM98LKV0/edit?usp=sharing)
+* [My Test Cases and Bugs](https://docs.google.com/spreadsheets/d/1UrvsrWflmaHokopiqaT4mt3t-uCthrhreVhiM98LKV0/edit?usp=sharing)
 
 ## MY CONTACT INFO
 * [Linkedin](https://www.linkedin.com/in/daria-chetverikova/)
