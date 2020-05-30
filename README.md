@@ -30,7 +30,7 @@ Hello! I'm Daria. I was born in Ukraine and moved to Warsaw 4 years ago for stud
 * [Software Testing for begginers. Web, Mobile, API. (QA/QC) - Udemy](http://ude.my/UC-R1ZJ81EN)
 
 ## BOOKS
-* Testirovanie Dot Com - Roman Savin
+* [Testirovanie Dot Com - Roman Savin](https://www.amazon.com/gp/product/1974462617/ref=dbs_a_def_rwt_bibl_vppi_i4)
 
 ## GROUPS ON FACEBOOK
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/)
