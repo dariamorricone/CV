@@ -3,7 +3,7 @@ My Tester's Portfolio
 
 ##  ABOUT ME
 
-Hello! I'm Daria. I was born in Ukraine and moved to Warsaw 4 years ago for study. I graduated the University of Economics and Human Sciences. Recently I became interested in software testing. My goal is to develop a testing knowlage and technical skills and share my gained expirience on this website.
+Hello! I'm Daria. I was born in Ukraine and moved to Warsaw 4 years ago for study. I graduated the University of Economics and Human Sciences. Recently I became interested in software testing. My goal is to develop a testing knowlege and technical skills and share my gained expirience on this website.
 ## TOOLS
 
 * **Postman** - testing tool for REST API
@@ -32,7 +32,7 @@ Hello! I'm Daria. I was born in Ukraine and moved to Warsaw 4 years ago for stud
 ## BOOKS
 * [Testirovanie Dot Com - Roman Savin](https://www.amazon.com/gp/product/1974462617/ref=dbs_a_def_rwt_bibl_vppi_i4)
 
-## GROUPS ON FACEBOOK
+## GROUPS FOR KNOWLEDGE GATHERING 
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/)
 * [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/?ref=timeline)
 * [Girls Who Test](https://www.facebook.com/girls.who.test/?eid=ARClc7xmNURKqdoOxe9VeLtjYxJ18D7_Ox4YQKmh_gHiWs2AkrkJsFC7rsdRAnmoobCCWS56ehKWEVJ8)
@@ -47,7 +47,7 @@ Hello! I'm Daria. I was born in Ukraine and moved to Warsaw 4 years ago for stud
 * [Women in Technology Poland](https://www.facebook.com/WiTPoland/?eid=ARCKCIT0cjZJXRnywSnngXA8I_eknIVlgFqupUltqtI7OjlLcJBHOinTZi-dL_oAETQOMp-nNNYjV9Z4)
 * [Girls in Tech - Poland](https://www.facebook.com/WiTPoland/?eid=ARCKCIT0cjZJXRnywSnngXA8I_eknIVlgFqupUltqtI7OjlLcJBHOinTZi-dL_oAETQOMp-nNNYjV9Z4)
 
-## RECOMMENDED BLOGS 
+## BLOGS READ
 * [testerzy.pl](https://testerzy.pl/)
 * [testerka.pl](http://testerka.pl/)
 * [testuj.pl - Test, Bugs & Rock'n'Roll](https://www.yasteq.com/PL/Wroclaw/193661854026669/Testuj.pl---Test%2C-Bugs-%26-Rock%27n%27Roll)
