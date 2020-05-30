@@ -3,8 +3,7 @@ My Tester's Portfolio
 
 ##  ABOUT ME
 
-Hello! My name is Daria. I'm from Ukraine, but moved to Warsaw 4 years ago for study. I graduated the University of Economics and Human Sciences. Recently I became interested in software testing. My goal is develop testing knowlage and technical skills and share my gained expirience on this website. Also, I'm looking for a job in a simple project.
-
+Hello! My name is Daria. I'm from Ukraine, but moved to Warsaw 4 years ago for study. I graduated the University of Economics and Human Sciences. Recently I became interested in software testing. My goal is develop testing knowlage and technical skills and share my gained expirience on this website.
 ## TOOLS
 
 * **Postman** - testing tool for REST API
