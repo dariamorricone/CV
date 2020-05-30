@@ -3,7 +3,7 @@ My Tester's Portfolio
 
 ##  ABOUT ME
 
-Hello! I'm Daria. I was born in Ukraine and moved to Warsaw 4 years ago for study. I graduated the University of Economics and Human Sciences. Recently I became interested in software testing. My goal is develop testing knowlage and technical skills and share my gained expirience on this website.
+Hello! I'm Daria. I was born in Ukraine and moved to Warsaw 4 years ago for study. I graduated the University of Economics and Human Sciences. Recently I became interested in software testing. My goal is to develop a testing knowlage and technical skills and share my gained expirience on this website.
 ## TOOLS
 
 * **Postman** - testing tool for REST API
