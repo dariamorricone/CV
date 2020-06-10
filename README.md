@@ -56,7 +56,7 @@ Hello! I'm Daria. I was born in Ukraine and moved to Warsaw 4 years ago for stud
 * [Oracle Live SQL](https://docs.google.com/spreadsheets/d/1cRASfPSEKgBF8TIt0yvh3D_E5WChrRgQJKsAjgflSD8/edit?usp=sharing)
 * [My Test Cases and Bugs](https://docs.google.com/spreadsheets/d/1UrvsrWflmaHokopiqaT4mt3t-uCthrhreVhiM98LKV0/edit?usp=sharing)
 * [Trello - My test cases and bugs](https://trello.com/b/8287JRtx/%D0%B4%D0%BE%D0%B1%D1%80%D0%BE-%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%B2-trello)
-* [Coverage Instruction](https://drive.google.com/file/d/1D1sDmIoAqEYVLE2UQlfMM3SUPkC3mdfj/view?usp=sharing)
+* [Coverage Instruction](https://docs.google.com/spreadsheets/d/11Vgl0pb7u_FTOJqj7XYhC71m5mjLOgTbdhLxrCTGaQ4/edit?usp=sharing)
 
 ## MY CONTACT INFO
 * [Linkedin](https://www.linkedin.com/in/daria-chetverikova/)
