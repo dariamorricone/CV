@@ -4,13 +4,14 @@ My Tester's Portfolio
 ##  ABOUT ME
 
 Hello! I'm Daria. I was born in Ukraine and moved to Warsaw 4 years ago for study. I graduated the University of Economics and Human Sciences. Recently I became interested in software testing. My goal is to develop a testing knowlege and technical skills and share my gained expirience on this website.
+
 ## TOOLS
 
 * **Postman** - testing tool for REST API
 * **Jira** - issue tracking and project management tool for developers
 * **Redmine** - web-based project management and issue tracking tool
 * **TestLink** - test management tool used for project management, bug tracking and test management.
-* **MrBuggy** - a tool for managers of the company providing testing services.
+* **SoapUI** - a testing tool for SOAP and REST APIs.
 
 ## TECH SKILLS
 
@@ -19,12 +20,14 @@ Hello! I'm Daria. I was born in Ukraine and moved to Warsaw 4 years ago for stud
 * Software testing
 * Creating test cases
 * Reporting bugs
-* Creating diagrams and decision tables
+* Practical knowledge of white/black box techniques usage (Creating diagrams and decision tables)
+* A knowledge of issues from the ISTQB Foundation
+* uTest Academy
 
 ## COURSES
 
 * [Zostań Testerem - Sii Poland - Certificate](https://drive.google.com/file/d/1F_uYGkh1D9EqdZLLaUZpe7iEXeu_ue8w/view?usp=sharing)
-* [Zostań Testerem - Sii Poland - Attestation](https://drive.google.com/file/d/1YTBN5k1r6aVdaHaSIQZPsSnrLcJv15om/view?usp=sharing)
+* [Zostań Testerem - Sii Poland - Credential](https://drive.google.com/file/d/1YTBN5k1r6aVdaHaSIQZPsSnrLcJv15om/view?usp=sharing)
 * [Best QA Manual Software Testing: Live Project+Agile+Jira+API - Udemy](http://ude.my/UC-HBBQBI1W)
 * [Master Software Testing+Jira+Agile on Live App-Be a TeamLead - Udemy](http://ude.my/UC-FTK3RNCN)
 * [Software Testing for begginers. Web, Mobile, API. (QA/QC) - Udemy](http://ude.my/UC-R1ZJ81EN)
