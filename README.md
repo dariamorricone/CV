@@ -20,9 +20,14 @@ Hello! I'm Daria. I was born in Ukraine and moved to Warsaw 4 years ago for stud
 * Software testing
 * Creating test cases
 * Reporting bugs
-* Practical knowledge of white/black box techniques usage (Creating diagrams and decision tables)
-* A knowledge of issues from the ISTQB Foundation
-* uTest Academy
+* Practical knowledge of white/black box techniques usage
+* A knowledge of the ISTQB Foundation standards
+
+## MY PROJECTS
+* [Oracle Live SQL](https://docs.google.com/spreadsheets/d/1cRASfPSEKgBF8TIt0yvh3D_E5WChrRgQJKsAjgflSD8/edit?usp=sharing)
+* [My Test Cases and Bugs - based on uTest projects](https://docs.google.com/spreadsheets/d/1UrvsrWflmaHokopiqaT4mt3t-uCthrhreVhiM98LKV0/edit?usp=sharing)
+* [Trello - My test cases and bugs](https://trello.com/b/8287JRtx/%D0%B4%D0%BE%D0%B1%D1%80%D0%BE-%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%B2-trello)
+* [Coverage of Instructions](https://docs.google.com/spreadsheets/d/11Vgl0pb7u_FTOJqj7XYhC71m5mjLOgTbdhLxrCTGaQ4/edit?usp=sharing)
 
 ## COURSES
 
@@ -31,12 +36,7 @@ Hello! I'm Daria. I was born in Ukraine and moved to Warsaw 4 years ago for stud
 * [Best QA Manual Software Testing: Live Project+Agile+Jira+API - Udemy](http://ude.my/UC-HBBQBI1W)
 * [Master Software Testing+Jira+Agile on Live App-Be a TeamLead - Udemy](http://ude.my/UC-FTK3RNCN)
 * [Software Testing for begginers. Web, Mobile, API. (QA/QC) - Udemy](http://ude.my/UC-R1ZJ81EN)
-
-## MY PROJECTS
-* [Oracle Live SQL](https://docs.google.com/spreadsheets/d/1cRASfPSEKgBF8TIt0yvh3D_E5WChrRgQJKsAjgflSD8/edit?usp=sharing)
-* [My Test Cases and Bugs](https://docs.google.com/spreadsheets/d/1UrvsrWflmaHokopiqaT4mt3t-uCthrhreVhiM98LKV0/edit?usp=sharing)
-* [Trello - My test cases and bugs](https://trello.com/b/8287JRtx/%D0%B4%D0%BE%D0%B1%D1%80%D0%BE-%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%B2-trello)
-* [Coverage Instruction](https://docs.google.com/spreadsheets/d/11Vgl0pb7u_FTOJqj7XYhC71m5mjLOgTbdhLxrCTGaQ4/edit?usp=sharing)
+* [uTest Academy](https://www.utest.com/)
 
 ## BOOKS
 * [Testirovanie Dot Com - Roman Savin](https://www.amazon.com/gp/product/1974462617/ref=dbs_a_def_rwt_bibl_vppi_i4)
