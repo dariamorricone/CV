@@ -13,16 +13,7 @@
 					"script": {
 						"id": "6f6322fa-8f8e-47f5-b28d-273e6eef053a",
 						"exec": [
-							"/*try {\r",
-							"  //  var artist_id= _.sample(JSON.parse(environment.artists));\r",
-							"  //  postman.setEnvironmentVariable(\"id\", artist_id)\r",
-							"}\r",
-							"catch (e) {\r",
-							"    colsole.log(e);\r",
-							"    throw false;\r",
-							"}\r",
-							"*/\r",
-							"pm.globals.set(\"language\", \"fr\");"
+							""
 						],
 						"type": "text/javascript"
 					}
