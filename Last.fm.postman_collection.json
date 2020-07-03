@@ -1,0 +1,195 @@
+{
+	"info": {
+		"_postman_id": "54383d87-544e-4810-8c58-4279a6cd52ad",
+		"name": "Last.fm",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get Artist",
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"id": "6f6322fa-8f8e-47f5-b28d-273e6eef053a",
+						"exec": [
+							"/*try {\r",
+							"  //  var artist_id= _.sample(JSON.parse(environment.artists));\r",
+							"  //  postman.setEnvironmentVariable(\"id\", artist_id)\r",
+							"}\r",
+							"catch (e) {\r",
+							"    colsole.log(e);\r",
+							"    throw false;\r",
+							"}\r",
+							"*/\r",
+							"pm.globals.set(\"language\", \"fr\");"
+						],
+						"type": "text/javascript"
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"id": "b2304265-65d2-42c9-8568-dd4d2fa938d7",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 1000ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(1000);\r",
+							"});\r",
+							"pm.test(\"Artist name is Metallica\", function () {\r",
+							"    var jsonData = pm.response.json();\r",
+							"    pm.expect(jsonData.artist.name).to.eql(\"Metallica\");\r",
+							"    pm.expect(jsonData.artist.mbid).to.eql(\"65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab\");\r",
+							"\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"protocolProfileBehavior": {
+				"disabledSystemHeaders": {}
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept-Language",
+						"value": "ru",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://ws.audioscrobbler.com/2.0/?method=artist.getinfo&artist=Metallica&api_key=452dfebadb09f172c2304862fcc6bb37&format=json&lang={{language}}",
+					"protocol": "http",
+					"host": [
+						"ws",
+						"audioscrobbler",
+						"com"
+					],
+					"path": [
+						"2.0",
+						""
+					],
+					"query": [
+						{
+							"key": "method",
+							"value": "artist.getinfo"
+						},
+						{
+							"key": "artist",
+							"value": "Metallica"
+						},
+						{
+							"key": "api_key",
+							"value": "452dfebadb09f172c2304862fcc6bb37"
+						},
+						{
+							"key": "format",
+							"value": "json"
+						},
+						{
+							"key": "lang",
+							"value": "{{language}}"
+						}
+					]
+				},
+				"description": "try {\r\n    var artist_id= _.sample(JSON.parse(environment.artists));\r\n    postman.setEnvironmentVariable(\"id\", artist_id)\r\n}\r\ncatch (e) {\r\n    colsole.log(e);\r\n    throw false;\r\n}"
+			},
+			"response": []
+		},
+		{
+			"name": "Get Album",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "64ba0d9b-0f09-4979-8d35-45ad75fde957",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"\r",
+							"pm.test(\"Album is St. Anger\", function () {\r",
+							"    var jsonData = pm.response.json();\r",
+							"    pm.expect(jsonData.album.name).to.eql(\"St. Anger\");\r",
+							"    pm.expect(jsonData.album.mbid).to.eql(\"5e084362-0d76-4c3f-9a42-8ec3b4406b32\");\r",
+							"    pm.expect(jsonData.album.artist).to.eql(\"Metallica\");\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://ws.audioscrobbler.com/2.0/?method=album.getinfo&artist=Metallica&api_key=452dfebadb09f172c2304862fcc6bb37&format=json&lang={{language}}&album=St. Anger",
+					"protocol": "http",
+					"host": [
+						"ws",
+						"audioscrobbler",
+						"com"
+					],
+					"path": [
+						"2.0",
+						""
+					],
+					"query": [
+						{
+							"key": "method",
+							"value": "album.getinfo"
+						},
+						{
+							"key": "artist",
+							"value": "Metallica"
+						},
+						{
+							"key": "api_key",
+							"value": "452dfebadb09f172c2304862fcc6bb37"
+						},
+						{
+							"key": "format",
+							"value": "json"
+						},
+						{
+							"key": "lang",
+							"value": "{{language}}"
+						},
+						{
+							"key": "album",
+							"value": "St. Anger"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"id": "92615c69-6d78-4cc6-8395-a214c1a08e96",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"id": "9b09e8fe-146d-43db-85f6-c9b8ca0e0f3a",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"protocolProfileBehavior": {}
+}
