@@ -29,6 +29,7 @@ Hello! I'm Daria. I was born in Ukraine and moved to Warsaw 4 years ago for stud
 * [Trello - My test cases and bugs](https://trello.com/b/8287JRtx/%D0%B4%D0%BE%D0%B1%D1%80%D0%BE-%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%B2-trello)
 * [Coverage of Instructions](https://docs.google.com/spreadsheets/d/11Vgl0pb7u_FTOJqj7XYhC71m5mjLOgTbdhLxrCTGaQ4/edit?usp=sharing)
 * [Decision Tables](https://docs.google.com/spreadsheets/d/1XYGD-7jGYBnKqlg464meE64TYp7-8ywF3X5CbOLP7LY/edit?usp=sharing)
+* [Last.fm Postman collection](./Last.fm.postman_collection.json)
 
 ## COURSES
 
