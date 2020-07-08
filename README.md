@@ -12,6 +12,7 @@ Hello! I'm Daria. I was born in Ukraine and moved to Warsaw 4 years ago for stud
 * **Redmine** - web-based project management and issue tracking tool
 * **TestLink** - test management tool used for project management, bug tracking and test management.
 * **SoapUI** - a testing tool for SOAP and REST APIs.
+* **Bugzilla** - an open-source issue/bug tracking system.
 
 ## TECH SKILLS
 
@@ -22,6 +23,18 @@ Hello! I'm Daria. I was born in Ukraine and moved to Warsaw 4 years ago for stud
 * Reporting bugs
 * Practical knowledge of white/black box techniques usage
 * A knowledge of the ISTQB Foundation standards
+
+## SOFT SKILLS
+
+* Analytical thinking
+* Teamwork
+* The ability to learn
+* Organization
+* Goal Oriented
+* Flexibility
+* Multitasking
+
+
 
 ## MY PROJECTS
 * [Oracle Live SQL](https://docs.google.com/spreadsheets/d/1cRASfPSEKgBF8TIt0yvh3D_E5WChrRgQJKsAjgflSD8/edit?usp=sharing)
