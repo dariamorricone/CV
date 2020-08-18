@@ -43,6 +43,7 @@ Hello! I'm Daria. I was born in Ukraine and moved to Warsaw 4 years ago for stud
 * [Coverage of Instructions](https://docs.google.com/spreadsheets/d/11Vgl0pb7u_FTOJqj7XYhC71m5mjLOgTbdhLxrCTGaQ4/edit?usp=sharing)
 * [Decision Tables](https://docs.google.com/spreadsheets/d/1XYGD-7jGYBnKqlg464meE64TYp7-8ywF3X5CbOLP7LY/edit?usp=sharing)
 * [Last.fm Postman collection](./Last.fm.postman_collection.json)
+* [Registration form - Clicktrans](https://docs.google.com/spreadsheets/d/17CIZGLIXFI60zhvNDWd_701NnoBmo9F3jxEBQgfzBm8/edit?usp=sharing) 
 
 ## COURSES
 
